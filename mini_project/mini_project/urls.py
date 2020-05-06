@@ -10,6 +10,9 @@ urlpatterns = [
 #these paths are where I need a long in
 #include(the urls from this file)
 
+
+#psql
+# python manage.py createsuperuser
 ##python manage.py makemigrations
 #python manage.py migrate
 #python manage.py runserver
